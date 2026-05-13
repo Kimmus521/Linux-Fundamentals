@@ -121,7 +121,7 @@ This meant that no other users should retain execute permissions.
 
 I updated the directory permissions using `chmod` and verified the changes afterward.
 
-![Directory Permissions](images/screenshot_4.png)
+![image alt](https://github.com/Kimmus521/Linux-Fundamentals/blob/a5ca7761913f1326c2c9d7445c0996b592bd7b27/Images/change_directory_permissions.png)
 
 The output confirms that only `researcher2` has read, write, and execute permissions for the `drafts` directory.
 
