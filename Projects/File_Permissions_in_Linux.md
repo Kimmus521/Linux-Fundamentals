@@ -30,7 +30,7 @@ The command lists all files in the directory, including hidden files, along with
 
 The 10-character string at the beginning of each line represents the permissions assigned to the file or directory.
 
-![Check File Permissions](images/screenshot_1.png)
+![image alt](https://github.com/Kimmus521/Linux-Fundamentals/blob/228dfad113e04e72ae52cdcc3f50c50f4693a58b/Images/check_file_and_directory.png)
 
 ---
 
