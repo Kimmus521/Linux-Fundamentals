@@ -86,7 +86,7 @@ After applying the permission change, I verified the update using:
 ls -la
 ```
 
-![Change File Permissions](images/screenshot_2.png)
+![image alt](https://github.com/Kimmus521/Linux-Fundamentals/blob/2bc4ed202cd1afcb0c320792ee1af04dbc7b0502/Images/change_file_permissions.png)
 
 ---
 
