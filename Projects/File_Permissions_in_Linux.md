@@ -109,7 +109,7 @@ Finally, I verified the updated permissions using:
 ls -la
 ```
 
-![Hidden File Permissions](images/screenshot_3.png)
+![image alt](https://github.com/Kimmus521/Linux-Fundamentals/blob/fe43f952a58a7e52ecfbc8ab348ad54d407d9ad8/Images/change_file_permissions_hidden.png)
 
 ---
 
