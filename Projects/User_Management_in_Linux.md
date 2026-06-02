@@ -71,7 +71,7 @@ sudo chown researcher9 /home/researcher2/projects/project_r.txt
 
 The screenshot below confirms the ownership transfer was completed:
 
-![Assign File Ownership](images/screenshot_2.png)
+![Image](https://github.com/Kimmus521/Linux-Fundamentals/blob/79f0b9fa5de5f48a7b017c8f78ed3f84cd272430/Images/p2_screenshot-2.png)
 
 ---
 
