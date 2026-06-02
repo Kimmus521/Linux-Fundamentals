@@ -40,7 +40,7 @@ sudo usermod -g research_team researcher9
 
 The screenshot below confirms both commands were executed successfully:
 
-![Add User and Primary Group](images/screenshot_1.png)
+![Image](https://github.com/Kimmus521/Linux-Fundamentals/blob/d9119d2d489d190f6d18621381664bb37747d4f5/Images/p2_screenshot-1.png)
 
 ---
 
