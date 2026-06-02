@@ -93,7 +93,7 @@ sudo usermod -a -G sales_team researcher9
 
 The screenshot below confirms `researcher9` was successfully added to `sales_team`:
 
-![Add Secondary Group](images/screenshot_3.png)
+![Image](https://github.com/Kimmus521/Linux-Fundamentals/blob/71eba31406a2632484a70619f5f78e03c9e5f2b2/Images/02_screenshot-3.png)
 
 ---
 
