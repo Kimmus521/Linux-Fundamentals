@@ -127,7 +127,7 @@ sudo groupdel researcher9
 
 The screenshot below shows both commands executed, including the system message from `userdel`:
 
-![Delete User and Group](images/screenshot_4.png)
+![Image](https://github.com/Kimmus521/Linux-Fundamentals/blob/c3251605cae1c17f1ce3c83ac1ac44e773abdb3d/Images/p2_screenshot-4.png)
 
 ---
 
